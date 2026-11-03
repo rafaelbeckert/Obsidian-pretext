@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test *.test.js" },
+  "dependencies": { "@chenglou/pretext": "1.0.0", "@codemirror/state": "^6.7.6", "@codemirror/view": "^6.43.15" }
+}
